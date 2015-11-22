@@ -14,5 +14,4 @@ And visit:
  - http://LUIGI_HOST:8082/
  - http://LUIGI_HOST:8082/static/visualiser/index.html#
  - http://LUIGI_HOST:8082/history
- - 
  
